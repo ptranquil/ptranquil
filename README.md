@@ -33,7 +33,7 @@ Software Engineer having experience in backend development and leading projects 
 
 ## 🌐 Connect with Me
 
-- **LinkedIn** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashant-dwivedi-19661a1a4/)
+- **LinkedIn** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prashantpdwivedi/)
 - **LeetCode** [![LeetCode](https://img.shields.io/badge/LeetCode-Challenge-red)](https://leetcode.com/ptranquil/)
 - **GitHub** [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/ptranquil)
 - **HackerRank** [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-brightgreen)](https://www.hackerrank.com/dashboard)
